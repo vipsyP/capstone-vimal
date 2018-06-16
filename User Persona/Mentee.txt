@@ -1,0 +1,58 @@
+User Persona:
+
+
+1. Header:
+ 	Fictional: 	
+		name: John Doe
+		image: 
+	Factual
+		quote: 
+
+
+2. Demographic Profile: 
+
+	i.   Personal Background:	
+		age: 22
+		gender:	M
+		ethnicity: Indian
+		education: BE	
+		persona group: Mentee
+		family status: Single
+
+	ii.  Professional Background:
+		occupation: Full Stack Web Development Trainee
+		income level: 10k/month
+		work experience: Fresher
+
+	iii. User Environment: physical, social, tech context of the user:
+		Collaborates very often with teammates on projects
+		Uses a laptop and a mobile device
+		Spends most of his time in the office 
+		Has access to high speed internet	
+		Is technologically proficient	
+
+	iv.  Psychographics:
+		Insightful  -- doesn't require the dumbing down of UI
+		High attention to detail -- will not withstand bad UI
+		Logical instead of emotional -- cares about what is right instead of what feels right
+		Mostly introverted -- prefers impersonal communication in groups -- chats, to-do actions, instead of group discussions
+		
+
+3. End Goal:
+	
+	-Has a hard time remembering daily tasks, and tracking tasks over longer timespans
+	Would like all work related tasks saved in one place -- in lists
+	Would like to track earlier versions of the project
+	Wants to collaborate with other group members
+	Would like daily actions automatically logged and documented
+	Raise a token with the mentor on unclear, difficult, or confusing actions
+	Must be able to submit completed tasks for review by mentor
+	Define tasks and subtasks
+ 
+4. Scenario: /* could add this in the user stories */
+
+	
+
+	
+
+	
