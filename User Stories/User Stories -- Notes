@@ -1,0 +1,36 @@
+
+Helps shift focus from writing about requirements to discussing them.
+
+
+A series of conversations about the desired functionality
+
+
+Short, Simple descriptions of a feature told from the perspective of people
+
+
+*As a < type of user >, I want < some goal > so that < some reason >*
+ 
+ 
+Usually written on sticky notes and arranged on walls -- therefore, facilitate discussions
+
+
+___________________________________________________________________________________________________________________________
+
+*Large user stories are generally known as epics. 
+	
+	
+	Detail can be added to user stories in two ways:
+
+
+		1. Can be split into smaller stories.
+		Ex. As a user, I can backup my entire hard drive. 
+		~> As a power user, I can specify files or folders to backup based on file size, date created and date modified.
+		~> As a user, I can indicate folders not to backup so that my backup drive isn't filled up with things I don't need saved.
+
+		
+		2. By adding “conditions of satisfaction.”
+		Ex As a vice president of marketing, I want to select a holiday season to be used when reviewing the performance of past advertising campaigns so that I can identify profitable ones.
+		~>Make sure it works with major retail holidays: Christmas, Easter, President’s Day, Mother’s Day, Father’s Day, Labor Day, New Year’s Day.
+		~>Holiday seasons can be set from one holiday to the next (such as Thanksgiving to Christmas).
+		~>Holiday seasons can be set to be a number of days prior to the holiday.
+
